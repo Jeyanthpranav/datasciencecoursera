@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is for my course purpose
+This is for my course project purpose
